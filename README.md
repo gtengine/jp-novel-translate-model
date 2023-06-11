@@ -1,0 +1,1 @@
+# jp-novel-translate-model
